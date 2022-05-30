@@ -1,0 +1,48 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Outfit', sans-serif;
+    background-color: hsl(212, 45%, 89%);
+}
+
+/*----- Centering a div within a div -----*/
+
+.main-container{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/*----- Using padding instead of a fixed height to make a div container responsive and prevent the text from overflow -----*/
+
+.qr-code-box{
+    width: 18em;
+    padding: 0.8em;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: hsl(0, 0%, 100%);
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.3);
+    border-radius: 12px;
+}
+
+.qr-code-image{
+    width: 100%;
+    border-radius: 12px;
+}
+
+h1{
+    color: hsl(218, 44%, 22%);
+    font-size: 1.5rem;
+}
+
+p{
+    font-size: 1rem;
+    color: hsl(220, 15%, 55%);
+    padding: 0.3em 1.2em;
+    margin-top: 0.1em;
+}
