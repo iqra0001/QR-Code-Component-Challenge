@@ -72,8 +72,3 @@ Using padding instead of a fixed height to make a div container responsive and p
 - Frontend Mentor - [@iqra0001](https://www.frontendmentor.io/profile/iqra0001)
 - LinkedIn - [Iqra Zaheer](https://www.linkedin.com/in/iqra-zaheer-45bb42231/)
 - Instagram - [Iqra Zaheer](https://www.instagram.com/iqraaa0001/)
-
-## Appendix
-
-Any additional information goes here
-
