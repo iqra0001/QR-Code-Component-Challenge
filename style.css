@@ -5,8 +5,6 @@ body{
     background-color: hsl(212, 45%, 89%);
 }
 
-/*----- Centering a div within a div -----*/
-
 .main-container{
     width: 100vw;
     height: 100vh;
@@ -14,8 +12,6 @@ body{
     justify-content: center;
     align-items: center;
 }
-
-/*----- Using padding instead of a fixed height to make a div container responsive and prevent the text from overflow -----*/
 
 .qr-code-box{
     width: 18em;
